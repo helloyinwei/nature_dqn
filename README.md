@@ -1,4 +1,4 @@
 # nature_dqn
-NATURE_deep_Q-network for playing flappybird using Keras Edit Add topics
+NATURE_deep_Q-network for playing flappybird using Keras(Nature, 2015)
 
-use python train.py 
+python train.py 
